@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="b1d670e8-dfbd-423b-a08a-9a3ff16be01c" 
+        solutionId="b1d670e8-dfbd-423b-a08a-9a3ff16be01c" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="CSR"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="844d4336-1663-443c-9695-e5f4ad217de9" />
+  </features>
+</package>
